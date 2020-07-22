@@ -1,0 +1,29 @@
+I used data from the past 12 months from Jersey City. I thought it would be most relevent to look at the most recent data. And, since I'm from
+New Jersey and I know the area well, I thought it would be interesting to look at the Jersey City data.
+
+Over time Dashboard
+Subscribers and customers both increase in the summer months, due to the weather being better to ride. Subscribers start to increase about a month 
+after customers do, because it takes some time for customers to be converted to subscribers after they start riding. 
+The number of riders overall, peaks in the summer, also for the reason of good weather.
+The peak hours are morning time and evening, when people are coming and going from work. Summer and winter months have similar trends because 
+those are the commuting hours regardless of the time of the year.
+
+Top/Bottom Dashboard
+The top start and end stations are similar, showing that many riders start and end in the same place. Most of these are near or at public 
+transportation stations. The bottom end stations are further away (most in NYC) then the start station, meaning most people don’t end far from where 
+they start. The bottom start stations, must just be in less popular travel areas.
+
+Demographics Dashboard
+There are many more male riders, I’m not sure why, but maybe there is some stigma associated with females riding. Female riders increase in the 
+summer just like overall riders, subscribers, and customers, this does not prove that advertising has helped it just shows the seasonal change.
+Younger riders tend to ride longer, probably because they are young and have more stamina. There is a peak at 1969 and 1938, which I can’t 
+explain more than overzealous riders, these seem like anomalies.
+
+Maps
+Most of the top start stations are near the shore, many are near public transportation stations, and they are mostly in a busy metro area. It seems 
+like these trends are happening because these places are where people are commuting from, the public transportation stations especially make sense, 
+and the peak travel times are commuting hours.
+The top end stations are are almost all the same as the top start stations. This shows riders start and end in a similar or the same place. The
+bottom stations are scattered throughout NYC and this is becuase of one off situations where the rider leaves the bike in NYC and doesn't come back
+the way they came.
+
